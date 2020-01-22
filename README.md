@@ -11,5 +11,9 @@
 
 ###Screenshots
 
-![Start] (start.png "start")
+![Start](start.png "start")
+
+![First](first.png "first")
+
+![Second](second.png "second")
 
