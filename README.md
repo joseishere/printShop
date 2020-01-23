@@ -9,7 +9,7 @@
 
 <p>The necessary credentials for the API are left out and as such it will not run. In order to get these credentials you must register your business with the apparel distributor</p>
 
-###Screenshots
+### Screenshots
 
 ![Start](start.png "start")
 
