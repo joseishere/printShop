@@ -72,7 +72,7 @@
    ?>
 
   <div class="jumbotron text-center">
-    <h1>Lunic Cost Estimator</h1>
+    <h1>Print Shop Cost Estimator</h1>
     <p>Type in the amount of colors, number of shirts, and shirt style then hit button!</p>
   </div>
 
