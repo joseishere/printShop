@@ -22,7 +22,7 @@
 
 ![Start](start.png "start")
 
-![First](first.png "first" =250x)
+![First](first.png "first")
 
 ![Second](second.png "second")
 
